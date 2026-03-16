@@ -12,6 +12,7 @@ SQL
 Excel  
 Data Visualization  
 Risk Analysis  
+Data Analytics 
 
 ## Current Project
 Smart Grid Cyber Risk Assessment and Simulation Model
